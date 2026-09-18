@@ -1,0 +1,4 @@
+echo "notes.txt
+*.log" > .gitignore
+
+touch notes.txt debug.log
